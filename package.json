@@ -1,0 +1,22 @@
+{
+  "name": "node-mysql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutao721/node-mysql.git"
+  },
+  "author": "yutao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yutao721/node-mysql/issues"
+  },
+  "homepage": "https://github.com/yutao721/node-mysql#readme",
+  "keywords": [
+    "node"
+  ],
+  "description": ""
+}
